@@ -1,6 +1,6 @@
 
 
-# 🚀 Module 3: Backend Development Mastery
+# Module 3: Backend Development Mastery
 ## **Express.js + MongoDB - Professional Server-Side Programming**
 
 ### 4-Week Intensive Program | 30 Hours of Expert-Led Training
